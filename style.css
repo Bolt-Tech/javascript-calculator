@@ -7,7 +7,7 @@
 html {
   font-family: "Roboto", "Noto Sans", "Helvetica", sans-serif;
   font-size: 14px;
-  background-color: #3498DB;
+  background-color: #be9613;
   height: 100%;
 }
 
@@ -70,7 +70,7 @@ html {
 .bottom {
   background-color: #2D2D2D;
   height: 300px;
-  color: #fff;
+  color: #ff8a1d;
   cursor: pointer;
 }
 
